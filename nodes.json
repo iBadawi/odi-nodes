@@ -208,15 +208,15 @@
 			"name": "ODI Dubai",
 			"types": ["Learning"],
 			"url": "",
-			"admin": "Ibrahim Elbadar",
+			"admin": "Ibrahim Elbadawi",
 			"location": {
-				"address": "Concord Tower Dubai Media City Dubai 126732 United Arab Emirates",
-				"coordinates": {"lat":25.09757,"lon":55.15633 }
+				"address": "Opal Tower, Business Bay, Dubai, United Arab Emirates",
+				"coordinates": {"lat":25.185780,"lon":55.275830 }
 			},
 			"contact": {
-				"tel": "+971 (0) 44549861",
+				"tel": "+971 (0) 44273705",
 				"email": "dubai@theodi.com",
-				"twitter": "@TheExantium"
+				"twitter": "@ODIDxB"
 			},
 			"company": "Exantium",
 			"funding": "Providing products and services to the government",
